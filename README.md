@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📌 I'm currently working as a Software Engineer - Frontend @Goldman Sachs. I have done my B.Tech Computer Engineering from Pune, India. I am committed to transforming ideas into functional websites and mobile applications using my education and experience.
+📌I am a Software Engineer - Frontend at Goldman Sachs, with a B.Tech in Computer Engineering from Vishwakarma Institute of Technology, Pune. I am dedicated to turning ideas into functional websites by leveraging my education and experience.
 
 📌 I've been programming for more than 3 years and have developed my passion towards frontend development. I've developed many Frontend applications focusing on responsiveness, accessibility and performance.
 
