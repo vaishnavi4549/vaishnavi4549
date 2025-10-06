@@ -6,7 +6,7 @@
 
 📌 My interests are developing cutting-edge real-world projects and learning new technologies.
 
-📌 Apart from Development I spend lot time on improving my DSA skills on [HackerRank](https://www.hackerrank.com/profile/vaishnavi_k28).
+📌 Apart from Development I spend lot time on improving my DSA skills on [HackerRank](https://www.hackerrank.com/profile/vaishnavi_k28) and [Leetcode](https://leetcode.com/u/_vaishnavi_k/).
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
