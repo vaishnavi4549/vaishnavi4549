@@ -13,7 +13,7 @@
 
 🛠   Languages & Frameworks :
 
-💻 Languages -  C++, Java
+💻 Languages -  C++, Java, Typescript, Javascript
 
 💻 Front-End Development - ReactJS, Typescript, Javascript, React-Testing-Library, Jest, Enzyme, Playwright
 
